@@ -49,7 +49,7 @@ vlocity packExport -propertyfile build_<Unique_Org_Name>.properties -job <Releas
 
 ### Create a git branch
 ```bash
-git checkout -b <ReleaseDate>_<ProjectName>_<Unique_Org_Name>_Release_BackUp_Release_BackUp
+git checkout -b Release_Branch_<ReleaseDate>
 ```
 
 ### Push the exports to git.
