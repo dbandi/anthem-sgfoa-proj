@@ -25,6 +25,7 @@ git push -u origin master
 
 ### Install Vlocity build
 ```bash
+npm init
 npm install --global vlocity
 ```
 
